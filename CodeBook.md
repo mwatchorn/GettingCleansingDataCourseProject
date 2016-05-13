@@ -1,6 +1,6 @@
 # Study Design
 
-The data repository encapsulated within the archive available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, served as the basis for this analysis effort.  The aforementioned archive includes several data files that expose observations collected by accelerometer devices present within the Samsung Galaxy S smartphones used by study participants.
+The data repository encapsulated within the archive available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, served as the basis for this analysis effort.  The aforementioned archive includes several data files that expose observations collected by accelerometer devices present within the Samsung Galaxy S smartphones used by study participants.  The  analysis effort exposes the variables listed in the "Code Book" that follows...
 
 # Code Book
 
